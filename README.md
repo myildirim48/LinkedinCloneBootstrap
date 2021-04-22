@@ -1,4 +1,4 @@
 # LinkedinCloneBootstrap
-Kodluyoruz front end bootstrap ödevi.
+##Kodluyoruz front end bootstrap ödevi.
 
-Linkedin Clone Bootstrap..
+###Linkedin Clone Bootstrap..
